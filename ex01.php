@@ -16,8 +16,6 @@ echo '-NOM:Ahmed <br>';
 echo '-Prénom:Ali <br>';
 echo '-groupe: 3<br>';
 ?>
-<?= 
-'phrase avec la syntaxe courte';
-?>
+<?= 'phrase avec la syntaxe courte'?>
 </body>
 </html>
