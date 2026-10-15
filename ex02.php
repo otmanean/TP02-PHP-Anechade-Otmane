@@ -4,8 +4,12 @@ $prenom="rachid";
 $age=22;
 $formation="Developpement WEB";
 
-echo "je suis ".$nom. " " .$prenom ." j'ai ". $age ."ans et je suive la formation : ".$formation .= ",  J'apprends PHP <br>" ;
 
+$phrase = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en " . $formation . ". ";
+    
+
+$phrase .= "J'apprends PHP.";
+echo "<p>" . $phrase . "</p>";
 $note = 12;
 $Note = 16;
 
