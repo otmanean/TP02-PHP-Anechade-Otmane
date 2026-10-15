@@ -18,3 +18,8 @@ les variables accéptée parmi ils sont:
 - `14` : Bien
 - `16` : Très bien
 - `21` : Note invalide
+
+## Exercice 6 : Véréfication
+- 3 : 'MARS'
+- 12: 'DECEMBRE'
+- 15: 'Numero de mois INVALIDE  , !Veuiller saisir un nombre entre 1 et 12!!! '
