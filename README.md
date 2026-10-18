@@ -23,3 +23,7 @@ les variables accéptée parmi ils sont:
 - 3 : 'MARS'
 - 12: 'DECEMBRE'
 - 15: 'Numero de mois INVALIDE  , !Veuiller saisir un nombre entre 1 et 12!!! '
+
+### Exercice 10 : Observations des URL (GET vs POST)
+- **Méthode GET :** Les valeurs saisies dans le formulaire apparaissent en clair dans l'URL après le point d'interrogation (ex: `ex10_get.php?nom=Doe&prenom=John&groupe=G1`).
+- **Méthode POST :** Les données sont envoyées dans le corps de la requête HTTP. L'URL reste propre (`ex10_post.php`) et les données ne sont pas visibles directement dans la barre d'adresse.
